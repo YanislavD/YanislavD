@@ -21,7 +21,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YanislavD&layout=compact&theme=tokyonight)
 
+<!-- 
+⏳ GitHub Streak - временно скрито, защото не работи
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YanislavD&theme=tokyonight)
+-->
 
 ---
 
