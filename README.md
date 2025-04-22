@@ -1,21 +1,35 @@
-## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanislavD&layout=compact&theme=default)
-## 📈 My GitHub Activity Graph
+# 👋 Hi, I'm Yanislav
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ТВОЕТО_ПОТРЕБИТЕЛСКО_ИМЕ&theme=github-compact)
+🚀 Aspiring Java Developer | 💡 Always learning, always building  
+🌍 Currently based in Germany | 📦 Working at Deutsche Post DHL  
+🎯 Passionate about backend, web apps & clean code
 
+---
 
-<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanislavD&layout=compact&theme=default)
-**YanislavD/YanislavD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
 
-Here are some ideas to get you started:
+- 💻 Java, Spring Boot
+- 🌐 HTML, CSS, JavaScript
+- 🛠️ Git, GitHub
+- 📚 Learning path: [SoftUni Java Developer Track](https://softuni.bg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![YanislavD's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanislavD&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YanislavD&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YanislavD&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 NOT SUPPORTED
+- 🌐 NOT SUPPORTED
+
+---
+
+*Thanks for stopping by! Let's build something great together 💻🔥*
