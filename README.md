@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanislavD&layout=compact&theme=default)
+![Top Langs](https://github-readme-activity-graph.cyclic.app/graph?username=YanislavD)
+
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanislavD&layout=compact&theme=default)
 **YanislavD/YanislavD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
